@@ -14,7 +14,8 @@ cs:
         one: "jedno hodnocení"
         other: "%{count} hodnocení"
   approve: "Schválit"
-  Approved_reviews: "Schváleno"
+  approval_status: "Stav"
+  Approved_reviews: "Schválené"
   approved_text: "Schválené hodnocení se zobrazí do 2 pracovních dnů."
   are_you_sure_review: "Jste si jist, že chcete odstranit hodnocení?"
   average_customer_rating: "Průměrné hodnocení"
@@ -54,8 +55,8 @@ cs:
     show_email: "Zobrazovat emailové adresy"
     track_locale: "Sledovat jazyk uživatele"
   star:
-    one: "1"
-    other: "%{count}"
+    one: "1 hvězda"
+    other: "%{count} hvězd(y)"
   stars: Počet hvězd
   submit_your_review: Submit your review
   submitted_on: "Odesláno"
