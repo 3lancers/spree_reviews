@@ -37,6 +37,7 @@ cs:
   guideline_text: "Vyhrazujeme si právo nepublikovat názory, které se netýkají tohoto zboží."
   info_approve_review: "Hodnocení schváleno"
   leave_us_a_review_for: "Zanechte nám hodnocení a komentář pro %{name}"
+  no: "Ne"
   no_reviews_available: "K tomuto zboží nejsou žádné komentáře."
   original_version: "Původní verze"
   out_of_5: "z 5"
@@ -60,7 +61,7 @@ cs:
     few: "%{count} hvězdy"
     other: "%{count} hvězd"
   stars: Počet hvězd
-  submit_your_review: Submit your review
+  submit_your_review: "Odeslat hodnocení"
   submitted_on: "Odesláno"
   terms_and_conditions: "Podmínky užití"
   terms_text: "Všechny názory musí splňovat naše podmíky užití"
@@ -72,4 +73,5 @@ cs:
     other: "%{count} hlasů"
   was_this_review_helpful: "Bylo toto hodnocení pro Vás užitečné?"
   write_your_own_review: "Napište vlastní hodnocení"
+  yes: "Ano"
   you_must_enter_value_for_rating: "Musíte vybrat stupeň hodnocení."
