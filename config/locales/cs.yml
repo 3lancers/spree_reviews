@@ -23,6 +23,7 @@ cs:
   back_reviews: "Zpět na seznam"
   based_upon_review_count:
     one: "založeno na jednom hodnocení"
+    few: "založeno na %{count} hodnoceních"
     other: "založeno na %{count} hodnoceních"
   by: "od"
   date_: "Datum"
